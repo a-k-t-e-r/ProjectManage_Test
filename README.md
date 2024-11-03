@@ -1,20 +1,57 @@
 
+# Project Management Application Setup Guide
 
-Backend URL
-	run via .NET CLI = http://localhost:5048/api
-	run via IIS = http://localhost:39160/api
+This guide provides detailed instructions on setting up and running the Project Management App, including the backend and frontend environments. Follow the steps below to get started.
 
-Note: change it according your run criteria from api.js file
+---
 
+## Project URLs
 
-Frontend URL = http://localhost:3000/
+### Backend
+- **.NET CLI URL:** `http://localhost:5048/api`
+- **IIS URL:** `http://localhost:39160/api`
 
+> **Note:** Modify the API URL in `api.js` based on your chosen running environment.
 
-### For Backend Running, you must need to run db migration command (dotnet cli):
-#### dotnet ef database update
-#### dotnet build
-#### dotnet run
+### Frontend
+- **URL:** `http://localhost:3000/`
 
-### For Frontend Running, must checkout the project's packages version with your workstation's package versions. Docker didn't implemented so make sure of that if you're getting exception. And command for install packages and run:
-#### npm i
-#### npm start
+---
+
+## Prerequisites
+
+- Ensure you have the .NET SDK installed for backend operations.
+- Make sure Node.js and npm are installed for frontend setup.
+- Database migration tools must be available for successful backend configuration.
+- Docker support is currently not implemented. If you encounter exceptions, ensure all required package versions are installed correctly.
+
+---
+
+## Backend Setup
+
+1. **Run Database Migration:**
+   ```bash
+   dotnet ef database update
+
+2. **Build and Run the Project:**
+   ```bash
+   dotnet build
+   dotnet run
+
+---
+## Frontend Setup
+
+1. **Install and start Project Dependencies:**
+   ```bash
+   npm i
+   npm start
+
+> **Note:** Verify package versions in your project to match your local environment, as this can prevent potential exceptions.
+
+---
+## Role-Based Access Setup
+
+1. Once both backend and frontend services are running, create a new user in the application.
+2. Assign the user role as **Manager** to test role-based access functionality.
+
+> **Note:** For any issues, refer to the project documentation or check package compatibility..
