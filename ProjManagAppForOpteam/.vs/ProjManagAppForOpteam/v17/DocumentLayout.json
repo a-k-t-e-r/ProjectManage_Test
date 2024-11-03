@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project_Management_App\\ProjManagAppForOpteam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B5E3E-D786-406E-A571-9E6FA75B9DCB}|ProjManagAppForOpteam\\ProjManagAppForOpteam.csproj|e:\\project_management_app\\projmanagappforopteam\\projmanagappforopteam\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B5E3E-D786-406E-A571-9E6FA75B9DCB}|ProjManagAppForOpteam\\ProjManagAppForOpteam.csproj|solutionrelative:projmanagappforopteam\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B5E3E-D786-406E-A571-9E6FA75B9DCB}|ProjManagAppForOpteam\\ProjManagAppForOpteam.csproj|e:\\project_management_app\\projmanagappforopteam\\projmanagappforopteam\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B5E3E-D786-406E-A571-9E6FA75B9DCB}|ProjManagAppForOpteam\\ProjManagAppForOpteam.csproj|solutionrelative:projmanagappforopteam\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B5E3E-D786-406E-A571-9E6FA75B9DCB}|ProjManagAppForOpteam\\ProjManagAppForOpteam.csproj|e:\\project_management_app\\projmanagappforopteam\\projmanagappforopteam\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B5E3E-D786-406E-A571-9E6FA75B9DCB}|ProjManagAppForOpteam\\ProjManagAppForOpteam.csproj|solutionrelative:projmanagappforopteam\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B5E3E-D786-406E-A571-9E6FA75B9DCB}|ProjManagAppForOpteam\\ProjManagAppForOpteam.csproj|e:\\project_management_app\\projmanagappforopteam\\projmanagappforopteam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B5E3E-D786-406E-A571-9E6FA75B9DCB}|ProjManagAppForOpteam\\ProjManagAppForOpteam.csproj|solutionrelative:projmanagappforopteam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B5E3E-D786-406E-A571-9E6FA75B9DCB}|ProjManagAppForOpteam\\ProjManagAppForOpteam.csproj|e:\\project_management_app\\projmanagappforopteam\\projmanagappforopteam\\models\\projecttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B5E3E-D786-406E-A571-9E6FA75B9DCB}|ProjManagAppForOpteam\\ProjManagAppForOpteam.csproj|solutionrelative:projmanagappforopteam\\models\\projecttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B5E3E-D786-406E-A571-9E6FA75B9DCB}|ProjManagAppForOpteam\\ProjManagAppForOpteam.csproj|e:\\project_management_app\\projmanagappforopteam\\projmanagappforopteam\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF7B5E3E-D786-406E-A571-9E6FA75B9DCB}|ProjManagAppForOpteam\\ProjManagAppForOpteam.csproj|solutionrelative:projmanagappforopteam\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B5E3E-D786-406E-A571-9E6FA75B9DCB}|ProjManagAppForOpteam\\ProjManagAppForOpteam.csproj|e:\\project_management_app\\projmanagappforopteam\\projmanagappforopteam\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B5E3E-D786-406E-A571-9E6FA75B9DCB}|ProjManagAppForOpteam\\ProjManagAppForOpteam.csproj|solutionrelative:projmanagappforopteam\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B5E3E-D786-406E-A571-9E6FA75B9DCB}|ProjManagAppForOpteam\\ProjManagAppForOpteam.csproj|e:\\project_management_app\\projmanagappforopteam\\projmanagappforopteam\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B5E3E-D786-406E-A571-9E6FA75B9DCB}|ProjManagAppForOpteam\\ProjManagAppForOpteam.csproj|solutionrelative:projmanagappforopteam\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 221,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectTask.cs",
+              "DocumentMoniker": "E:\\Project_Management_App\\ProjManagAppForOpteam\\ProjManagAppForOpteam\\Models\\ProjectTask.cs",
+              "RelativeDocumentMoniker": "ProjManagAppForOpteam\\Models\\ProjectTask.cs",
+              "ToolTip": "E:\\Project_Management_App\\ProjManagAppForOpteam\\ProjManagAppForOpteam\\Models\\ProjectTask.cs",
+              "RelativeToolTip": "ProjManagAppForOpteam\\Models\\ProjectTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T07:11:05.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Project.cs",
+              "DocumentMoniker": "E:\\Project_Management_App\\ProjManagAppForOpteam\\ProjManagAppForOpteam\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "ProjManagAppForOpteam\\Models\\Project.cs",
+              "ToolTip": "E:\\Project_Management_App\\ProjManagAppForOpteam\\ProjManagAppForOpteam\\Models\\Project.cs",
+              "RelativeToolTip": "ProjManagAppForOpteam\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T05:07:25.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "E:\\Project_Management_App\\ProjManagAppForOpteam\\ProjManagAppForOpteam\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "ProjManagAppForOpteam\\Controllers\\TaskController.cs",
+              "ToolTip": "E:\\Project_Management_App\\ProjManagAppForOpteam\\ProjManagAppForOpteam\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "ProjManagAppForOpteam\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAswIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T18:13:18.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "E:\\Project_Management_App\\ProjManagAppForOpteam\\ProjManagAppForOpteam\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "ProjManagAppForOpteam\\Controllers\\ProjectsController.cs",
+              "ToolTip": "E:\\Project_Management_App\\ProjManagAppForOpteam\\ProjManagAppForOpteam\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "ProjManagAppForOpteam\\Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAgwG0AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T17:57:46.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\Project_Management_App\\ProjManagAppForOpteam\\ProjManagAppForOpteam\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ProjManagAppForOpteam\\appsettings.Development.json",
+              "ToolTip": "E:\\Project_Management_App\\ProjManagAppForOpteam\\ProjManagAppForOpteam\\appsettings.Development.json",
+              "RelativeToolTip": "ProjManagAppForOpteam\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-01T17:52:36.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Project_Management_App\\ProjManagAppForOpteam\\ProjManagAppForOpteam\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ProjManagAppForOpteam\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Project_Management_App\\ProjManagAppForOpteam\\ProjManagAppForOpteam\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ProjManagAppForOpteam\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwBQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T17:45:57.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Project_Management_App\\ProjManagAppForOpteam\\ProjManagAppForOpteam\\Program.cs",
+              "RelativeDocumentMoniker": "ProjManagAppForOpteam\\Program.cs",
+              "ToolTip": "E:\\Project_Management_App\\ProjManagAppForOpteam\\ProjManagAppForOpteam\\Program.cs",
+              "RelativeToolTip": "ProjManagAppForOpteam\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T17:45:53.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\Project_Management_App\\ProjManagAppForOpteam\\ProjManagAppForOpteam\\Auth\\AuthService.cs",
+              "RelativeDocumentMoniker": "ProjManagAppForOpteam\\Auth\\AuthService.cs",
+              "ToolTip": "E:\\Project_Management_App\\ProjManagAppForOpteam\\ProjManagAppForOpteam\\Auth\\AuthService.cs",
+              "RelativeToolTip": "ProjManagAppForOpteam\\Auth\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T17:45:51.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
