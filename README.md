@@ -54,4 +54,4 @@ This guide provides detailed instructions on setting up and running the Project 
 1. Once both backend and frontend services are running, create a new user in the application.
 2. Assign the user role as **Manager** to test role-based access functionality.
 
-> **Note:** For any issues, refer to the project documentation or check package compatibility..
+> **Note:** For any issues, check react packages compatibility..
