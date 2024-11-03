@@ -20,8 +20,8 @@ const Login = () => {
       login(response.data.token, { username });
       navigate("/projects");
     } catch (error) {
-      console.error("Login failed:", error);
       alert("Login failed. Please check your credentials.");
+      console.error("Login failed:", error);
     }
   };
 
